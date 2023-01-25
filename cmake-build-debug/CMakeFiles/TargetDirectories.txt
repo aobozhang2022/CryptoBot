@@ -1,0 +1,3 @@
+C:/Users/aoboz/CLionProjects/CryptoBot/cmake-build-debug/CMakeFiles/CryptoBot.dir
+C:/Users/aoboz/CLionProjects/CryptoBot/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aoboz/CLionProjects/CryptoBot/cmake-build-debug/CMakeFiles/rebuild_cache.dir
